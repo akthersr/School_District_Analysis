@@ -45,5 +45,11 @@ The below dataframe represents the summary of the Thomas High School after repla
    
 ![district summary](https://github.com/akthersr/School_District_Analysis/blob/main/Resources/district%20summary.png)
 
+## School summary
+
+The below figure shows the bottom five schools based on the overall passing rate.
+
+![](https://github.com/akthersr/School_District_Analysis/blob/main/overall%20passing%20of%20bottom%20school.png)
+
 
 
