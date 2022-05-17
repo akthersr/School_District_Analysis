@@ -25,8 +25,11 @@ Here is the list of deliverables for the analysis of the school district:
 The below dataframe represents the summary of the Thomas High School after replacing the nineth graders score with NaN.After relpacing the nineth graders math and reading scores by NaN, results the following changes in Thomas High School:
 
    1.The overall passing percentage for the entire district fell to 64.9%.
+   
    2.The average math score droppped by .1%.
+   
    3.The overall passing for reading scores dropped by .1%.
+   
    4.The overall passing for math dropped by .2%.
    
 ![]()
