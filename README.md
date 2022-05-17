@@ -51,5 +51,9 @@ The below figure shows the bottom five schools based on the overall passing rate
 
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/overall%20passing%20of%20bottom%20school.png)
 
+The below figure shows the top five schools based on the overall passing rate.
+
+![](https://github.com/akthersr/School_District_Analysis/blob/main/overall%20passing%20for%20top%20schools.png)
+
 
 
