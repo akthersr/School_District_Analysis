@@ -43,7 +43,7 @@ The below dataframe represents the summary of the Thomas High School after repla
    
    4.The overall passing for math dropped by .2%.
    
-![]()
+![district summary](https://github.com/akthersr/School_District_Analysis/blob/main/Resources/district%20summary.png)
 
 
 
