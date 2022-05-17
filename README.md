@@ -1,11 +1,4 @@
 # School_District_Analysis
-Here is the list of deliverables for the analysis of the school district: 
-A high-level snapshot of the district's key metrics, presented in a table format
-An overview of the key metrics for each school, presented in a table format
-Tables presenting each of the following metrics:
-Top 5 and bottom 5 performing schools, based on the overall passing rate
-The average math score received by students in each grade level at each school
-The average reading score received by students in each grade level at each school
-School performance based on the budget per student
-School performance based on the school size 
-School performance based on the type of school
+## Overview of the school district analysis
+ The main purpose of this analysis is to analyize the data of an entire school district,to verify state-testing standards, this analysis was conduced twice due to potential academic dishonesty among a group of students. . The school board has the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered.Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. They want to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once we have replaced the math and reading scores, then repeat the school district analysis that we did in this module and write up a report to describe how these changes affected the overall analysis.
+ 
