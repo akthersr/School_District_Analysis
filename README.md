@@ -74,6 +74,8 @@ In the original analysis, Thomas High School overall passing rate was 91%.But, a
 
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20summary%20THS.png)
 
+![]()
+
 The below figure shows the bottom five schools based on the overall passing rate.
 
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/overall%20passing%20of%20bottom%20school.png)
