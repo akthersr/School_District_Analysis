@@ -69,7 +69,7 @@ The change of adding Nan for grade 9 in Thomas High School math and reading scor
    
 ## School summary
 
-![]()
+![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20summary%20THS.png)
 
 The below figure shows the bottom five schools based on the overall passing rate.
 
