@@ -13,6 +13,10 @@ The main purpose of this analysis to analyze the state-testing score for math te
  2. An overview of the key metrics for each school, presented in a table format.
  
  3. Tables presenting each of the following metrics:
+  
+    The district summary.
+    
+    The school summary.
  
     Top 5 and bottom 5 performing schools, based on the overall passing rate.
     
@@ -30,8 +34,11 @@ The main purpose of this analysis to analyze the state-testing score for math te
 
 1. Data Source:students_complete.csv,schools_complete.csv.
 2. Software: Python, Visual Studio Code, Anaconda, Jupyter Notebook, Pandas.
+3. Output Files: PyCitySchools.ipynb & PyCitySchools_Challenge.ipynb 
 
 ## Analysis
+
+### Replace the reading and math scores
 
 At first,using the loc method on the student dataframe we replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/9th%20grade%20nan.png)
@@ -39,6 +46,26 @@ At first,using the loc method on the student dataframe we replace the math and r
 The below figure shows the student dataframe:
 
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/student%20data%20frame%20nan.png)
+
+ ### Repeat the school district analysis
+ 
+ The two dataframe were merge together for further analysis.Then,we have to recalculate the total student count by subtracting the number of ninth-grade students in Thomas High School(THS) from the total student count, recalculate the passing math and passing reading percentages, and the overall passing percentage with the recalculated total student count.
+ 
+ ![]()
+ 
+ A school summary dataframe was created to update the school summary using the 10th-12th graders from Thomas High School(THS).For this,we have to calculate the total number of students from 10th to 12th grade in Thomas High School.
+ 
+From this dataset we create three new DataFrames for the 10th-12th graders from Thomas High School: passing math rate,  passing reading rate, and overall passing rate for both math and reading.
+
+![]()
+
+We replace the % Passing Math, % Passing Reading, and % Overall Passing scores in the current School Summary DataFrame with the new passing percentages for Thomas High School. Top and bottom five performing schools were determined by sorting the school summary dataframe on overall passing rate.Next, the performance of school scores were analyzed by school budget per student and  school size.At the end, we determine the performace of schools by school type.
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
