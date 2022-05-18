@@ -69,6 +69,10 @@ The change of adding Nan for grade 9 in Thomas High School math and reading scor
    
 ## School summary
 
+In the original analysis, Thomas High School overall passing rate was 91%.But, after adjusting data for 9th graders had a very significant affect in THS test scores.The overall passing rate drop to 65%, passing rate in math was almost 67% and passing rate in reading 70%.
+
+![]()
+
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20summary%20THS.png)
 
 The below figure shows the bottom five schools based on the overall passing rate.
