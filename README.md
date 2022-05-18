@@ -80,9 +80,13 @@ School summary excluding 9th grader:
 
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20summary%20original.png)
 
+### Schools Performance
+
+ Thomas High School ranks in the position both before and after the adjustment in terms of overall (both subjects) passing rate.
+
 The below figure shows the top five schools based on the overall passing rate.
 
-![](
+![](https://github.com/akthersr/School_District_Analysis/blob/main/top%205%20schools.png)
 
 The below figure shows the bottom five schools based on the overall passing rate.
 
