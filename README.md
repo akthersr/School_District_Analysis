@@ -13,12 +13,19 @@ The main purpose of this analysis to analyze the state-testing score for math te
  3. Tables presenting each of the following metrics:
  
     The district summary.
+    
     The school summary.
+    
     Top 5 and bottom 5 performing schools, based on the overall passing rate.
+    
     The average math score received by students in each grade level at each school.
+    
     The average reading score received by students in each grade level at each school.
+    
     School performance based on the budget per student.
+    
     School performance based on the school size.
+    
     School performance based on the type of school.
   
 ## Resources
@@ -100,7 +107,7 @@ The ranking of the top schools including Thomas High School was not affected by 
   
  Adjusted math scores by grade:
  
- ![]()
+ ![](https://github.com/akthersr/School_District_Analysis/blob/main/math%20scores.png)
  
  Adjusted reading scores by grade:
  
