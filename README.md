@@ -43,7 +43,7 @@ The below figure shows the student dataframe:
  
  The two dataframe were merge together for further analysis.Then,we have to recalculate the total student count by subtracting the number of ninth-grade students in Thomas High School(THS) from the total student count, recalculate the passing math and passing reading percentages, and the overall passing percentage with the recalculated total student count.
  
- ![]()
+ ![](https://github.com/akthersr/School_District_Analysis/blob/main/ths%20count.png)
  
  A school summary dataframe was created to update the school summary using the 10th-12th graders from Thomas High School(THS).For this,we have to calculate the total number of students from 10th to 12th grade in Thomas High School.
  
