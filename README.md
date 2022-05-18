@@ -26,7 +26,7 @@ Here is the list of deliverables for the analysis of the school district:
   
 ## Resources
 
-1. Data Source:students_complete.csv, PyCitySchools.ipynb file
+1. Data Source:students_complete.csv,schools_complete.csv.
 
 2. Software: Python, Visual Studio Code, Anaconda, Jupyter Notebook, Pandas
 
