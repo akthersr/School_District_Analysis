@@ -65,18 +65,16 @@ We replace the % Passing Math, % Passing Reading, and % Overall Passing scores i
 
 ### District summary 
 
-The below dataframe represents the summary of the Thomas High School after replacing the nineth graders score with NaN.After relpacing the nineth graders math and reading scores by NaN, results the following changes in Thomas High School:
+The DataFrame below shows the District summary with the full set of student data.
 
-   1.The overall passing percentage for the entire district fell to 64.9%.
-   
-   2.The average math score droppped by .1%.
-   
-   3.The overall passing for reading scores dropped by .1%.
-   
-   4.The overall passing for math dropped by .2%.
-   
+![](https://github.com/akthersr/School_District_Analysis/blob/main/district%20summary%20original.png)
+
+The DataFrame below is a summary representing the District after replacing the ninth graders' scores with NaN.
+
 ![district summary](https://github.com/akthersr/School_District_Analysis/blob/main/Resources/district%20summary.png)
 
+The change of adding Nan for grade 9 in Thomas High School math and reading scores did not have a large impact on the district analysis, with each metric decresing by less that 0.2 percentage point each (meaning scores changed by less than 0.5%). It's important to consider there are only 461 students in grade 9 at Thomas High School, and given the total student count is 39,170.The overall passing percentage for the entire district fell to 64.9%.
+   
 ## School summary
 
 The below figure shows the bottom five schools based on the overall passing rate.
