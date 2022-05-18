@@ -117,7 +117,7 @@ The ranking of the top schools including Thomas High School was not affected by 
  
  Original Analysis
  
- ![](https://github.com/akhthersr/School_District_Analysis/blob/main/spending%20original.png)
+ ![](https://github.com/akthersr/School_District_Analysis/blob/main/spending%20original.png)
  
  Adjusted Analysis
  
