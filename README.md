@@ -4,11 +4,13 @@
  
  The school board has notified the chief data scientist for a school district, Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to to verify state-testing standards. They want to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.Additionally, to uphold state-testing standards, this analysis was conduced twice due to potential academic dishonesty among a group of students.
  
-Here is the list of deliverables for the analysis of the school district:
+## Purpose of the analysis
+
+The main purpose of this analysis to analyze the state-testing score for math test and reading test from nineth to twelfth grade in different high schools of the district.Here is the list of deliverables for the analysis of the school district:
 
  1. A high-level snapshot of the district's key metrics, presented in a table format.
  
- 2. An overview of the key metrics for each school, presented in a table format
+ 2. An overview of the key metrics for each school, presented in a table format.
  
  3. Tables presenting each of the following metrics:
  
@@ -27,8 +29,16 @@ Here is the list of deliverables for the analysis of the school district:
 ## Resources
 
 1. Data Source:students_complete.csv,schools_complete.csv.
+2. Software: Python, Visual Studio Code, Anaconda, Jupyter Notebook, Pandas.
 
-2. Software: Python, Visual Studio Code, Anaconda, Jupyter Notebook, Pandas
+## Analysis
+
+At first,using the loc method on the student dataframe we replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
+![]()
+
+
+![]()
+
 
 
 ## Results
