@@ -1,6 +1,8 @@
 # School_District_Analysis
 ## Overview of the school district analysis
- The main purpose of this analysis is to analyize the data of an entire school district,to verify state-testing standards, this analysis was conduced twice due to potential academic dishonesty among a group of students. . The school board has the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered.Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. They want to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once we have replaced the math and reading scores, then repeat the school district analysis that we did in this module and write up a report to describe how these changes affected the overall analysis.
+ The main purpose of this analysis is to analyize the data of an entire school district,such as school funding,school size,student grades and the standrized state test scores for math and reading of each students in the district,to learn new insights and provide visual results on each schools performance.
+ 
+ The school board has notified the chief data scientist for a school district, Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to to verify state-testing standards. They want to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.Additionally, to uphold state-testing standards, this analysis was conduced twice due to potential academic dishonesty among a group of students.
  
 Here is the list of deliverables for the analysis of the school district:
 
@@ -24,7 +26,7 @@ Here is the list of deliverables for the analysis of the school district:
   
 ## Resources
 
-1. Data Source: PyCitySchools.ipynb file
+1. Data Source:students_complete.csv, PyCitySchools.ipynb file
 
 2. Software: Python, Visual Studio Code, Anaconda, Jupyter Notebook, Pandas
 
