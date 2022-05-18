@@ -117,11 +117,11 @@ The ranking of the top schools including Thomas High School was not affected by 
  
  Original Analysis
  
- ![]()
+ ![](https://github.com/akhthersr/School_District_Analysis/blob/main/spending%20original.png)
  
  Adjusted Analysis
  
- ![]()
+ ![](https://github.com/akthersr/School_District_Analysis/blob/main/spending%20adjusted.png)
  
  The effect of adjusting THS 9th graders' scores was insignificant on results by school budget per student.The data shows that Average Scores and Passing Percentages do not increase as spending per student increases.
  
@@ -131,11 +131,11 @@ The ranking of the top schools including Thomas High School was not affected by 
  
  Original Analysis
  
- ![]()
+ ![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20size%20original.png)
  
  Adjusted Analysis
  
- ![]()
+ ![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20size%20adjusted.png)
  
  ### Scores by school type
  
@@ -143,11 +143,11 @@ Charter schools generally performed better than District schools in this analysi
  
 Original Analysis
 
-![]()
+![](https://github.com/akthersr/School_District_Analysis/blob/main/schoool%20type%20original.png)
 
 Adjusted Analysis
 
-![]()
+![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20type%20adjusted.png)
 
 ## Summary
 1.  After replacing the ninth graders' scores with NaN caused Thomas High School's overall passing percentages and average scores to plummet.
