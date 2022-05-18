@@ -36,7 +36,7 @@ The main purpose of this analysis to analyze the state-testing score for math te
 
 ## Analysis
 
-### Replace the reading and math scores
+## Replace the reading and math scores
 
 
 With the help of Numpy and Pandas libraries, we read the two csv files on School Data and Student Data. At first,using the loc method on the student dataframe we replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
@@ -47,7 +47,7 @@ The below figure shows the student dataframe:
 
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/student%20data%20frame%20nan.png)
 
- ### Repeat the school district analysis
+ ## Repeat the school district analysis
  
  The two dataframe were merge together for further analysis.Then,we have to recalculate the total student count by subtracting the number of ninth-grade students in Thomas High School(THS) from the total student count, recalculate the passing math and passing reading percentages, and the overall passing percentage with the recalculated total student count.
  
@@ -63,7 +63,7 @@ We replace the % Passing Math, % Passing Reading, and % Overall Passing scores i
  
  ## Results
 
-### District summary 
+## District summary 
 
 The DataFrame below shows the District summary with the full set of student data.
 
@@ -87,7 +87,7 @@ School summary excluding 9th grader:
 
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20summary%20original.png)
 
-### Schools Performance
+## Schools Performance
 
  Thomas High School ranks in the position both before and after the adjustment in terms of overall (both subjects) passing rate.
 
@@ -101,7 +101,7 @@ The below figure shows the bottom five schools based on the overall passing rate
 
 The ranking of the top schools including Thomas High School was not affected by the update.While the average math, reading and overall scores at Thomas High School were impacted with the update, the changes were not enough to change its relative ranking versus other schools.
 
-### Math and reading scores by grade
+## Math and reading scores by grade
 
   In the original analysis, reading and math scores for Ths 9th grader were 83.72,83.59 repectively.
   
@@ -113,7 +113,7 @@ The ranking of the top schools including Thomas High School was not affected by 
  
  ![](https://github.com/akthersr/School_District_Analysis/blob/main/reading%20score.png)
  
- ### Scores by school spending
+ ## Scores by school spending
  
  Original Analysis
  
@@ -125,7 +125,7 @@ The ranking of the top schools including Thomas High School was not affected by 
  
  The effect of adjusting THS 9th graders' scores was insignificant on results by school budget per student.The data shows that Average Scores and Passing Percentages do not increase as spending per student increases.
  
- ### Scores by school size
+ ## Scores by school size
  
  Again, there is no significant effect of replacing THS 9th graders' scores with NaNs on scores by school size was almost none.
  
@@ -137,7 +137,7 @@ The ranking of the top schools including Thomas High School was not affected by 
  
  ![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20size%20adjusted.png)
  
- ### Scores by school type
+ ## Scores by school type
  
 Charter schools generally performed better than District schools in this analysis. The top five schools with the highest overall passing percentages are all Charter schools, whereas the bottom five are all District Schools. Thomas High School is a charter school. The impact of adjusting its 9th graders score on math and reading, scores and rates of charter schools have no significant change in the adjusted data.
  
