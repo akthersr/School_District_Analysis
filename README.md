@@ -90,9 +90,70 @@ The below figure shows the top five schools based on the overall passing rate.
 
 The below figure shows the bottom five schools based on the overall passing rate.
 
-![](
+![](https://github.com/akthersr/School_District_Analysis/blob/main/bottom%205%20schools.png)
 
 The ranking of the top schools including Thomas High School was not affected by the update.While the average math, reading and overall scores at Thomas High School were impacted with the update, the changes were not enough to change its relative ranking versus other schools.
+
+### Math and reading scores by grade
+
+  In the original analysis, reading and math scores for Ths 9th grader were 83.72,83.59 repectively.
+  
+ Adjusted math scores by grade:
+ 
+ ![]()
+ 
+ Adjusted reading scores by grade:
+ 
+ ![]()
+ 
+ ### Scores by school spending
+ 
+ Original Analysis
+ 
+ ![]()
+ 
+ Adjusted Analysis
+ 
+ ![]()
+ 
+ The effect of adjusting THS 9th graders' scores was insignificant on results by school budget per student.The data shows that Average Scores and Passing Percentages do not increase as spending per student increases.
+ 
+ ### Scores by school size
+ 
+ Again, there is no significant effect of replacing THS 9th graders' scores with NaNs on scores by school size was almost none.
+ 
+ Original Analysis
+ 
+ ![]()
+ 
+ Adjusted Analysis
+ 
+ ![]()
+ 
+ ### Scores by school type
+ 
+Charter schools generally performed better than District schools in this analysis. The top five schools with the highest overall passing percentages are all Charter schools, whereas the bottom five are all District Schools. Thomas High School is a charter school. The impact of adjusting its 9th graders score on math and reading, scores and rates of charter schools have no significant change in the adjusted data.
+ 
+Original Analysis
+
+![]()
+
+Adjusted Analysis
+
+![]()
+
+## Summary
+
+1.  After replacing the ninth graders' scores with NaN caused Thomas High School's overall passing percentages and average scores to plummet.
+2.  The district as a whole has also had its average math and reading scores decrease, as well as the overall passing percentage for students.
+3.  But, changes are insignificant for Scores by budget and Scores by school size.
+4.  There is no significant change in Scores by school type.After analyzing the average scores for math and reading by grade level for each school, it is found that     a students grade level does not affect their scores as much as the school that they attend. 
+
+## Recommendation
+
+Unfortunately, it is not possible to determine the extent of the potential academic dishonesty or identify specific indivisuals to exclude from the dataset.
+If we remove all  the 9th graders in a separate analyses, we will be able to compare similar groups across schools.
+
 
 
 
