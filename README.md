@@ -100,7 +100,7 @@ The ranking of the top schools including Thomas High School was not affected by 
   
  Adjusted math scores by grade:
  
- ![](https://github.com/akthersr/School_District_Analysis/blob/main/math%20score.png)
+ ![]()
  
  Adjusted reading scores by grade:
  
