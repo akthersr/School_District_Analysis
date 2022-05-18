@@ -6,28 +6,18 @@
  
 ## Purpose of the analysis
 
-The main purpose of this analysis to analyze the state-testing score for math test and reading test from nineth to twelfth grade in different high schools of the district.Here is the list of deliverables for the analysis of the school district:
+The main purpose of this analysis to analyze the state-testing score for math test and reading test from nineth to twelfth grade in different high schools of the district. Here is the list of deliverables for the analysis of the school district:
 
  1. A high-level snapshot of the district's key metrics, presented in a table format.
- 
  2. An overview of the key metrics for each school, presented in a table format.
- 
  3. Tables presenting each of the following metrics:
-  
     The district summary.
-    
     The school summary.
- 
     Top 5 and bottom 5 performing schools, based on the overall passing rate.
-    
     The average math score received by students in each grade level at each school.
-    
     The average reading score received by students in each grade level at each school.
-    
     School performance based on the budget per student.
-    
     School performance based on the school size.
-    
     School performance based on the type of school.
   
 ## Resources
@@ -40,7 +30,9 @@ The main purpose of this analysis to analyze the state-testing score for math te
 
 ### Replace the reading and math scores
 
-At first,using the loc method on the student dataframe we replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
+
+With the help of Numpy and Pandas libraries, we read the two csv files on School Data and Student Data. At first,using the loc method on the student dataframe we replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
+
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/9th%20grade%20nan.png)
 
 The below figure shows the student dataframe:
