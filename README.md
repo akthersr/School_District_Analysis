@@ -53,15 +53,7 @@ From this dataset we create three new DataFrames for the 10th-12th graders from 
 
 We replace the % Passing Math, % Passing Reading, and % Overall Passing scores in the current School Summary DataFrame with the new passing percentages for Thomas High School. Top and bottom five performing schools were determined by sorting the school summary dataframe on overall passing rate.Next, the performance of school scores were analyzed by school budget per student and  school size.At the end, we determine the performace of schools by school type.
  
- 
- 
- 
- 
- 
-
-
-
-## Results
+ ## Results
 
 ### District summary 
 
@@ -76,6 +68,8 @@ The DataFrame below is a summary representing the District after replacing the n
 The change of adding Nan for grade 9 in Thomas High School math and reading scores did not have a large impact on the district analysis, with each metric decresing by less that 0.2 percentage point each (meaning scores changed by less than 0.5%). It's important to consider there are only 461 students in grade 9 at Thomas High School, and given the total student count is 39,170.The overall passing percentage for the entire district fell to 64.9%.
    
 ## School summary
+
+![]()
 
 The below figure shows the bottom five schools based on the overall passing rate.
 
