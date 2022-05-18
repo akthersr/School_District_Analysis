@@ -36,8 +36,9 @@ The main purpose of this analysis to analyze the state-testing score for math te
 At first,using the loc method on the student dataframe we replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/9th%20grade%20nan.png)
 
+The below figure shows the student dataframe:
 
-![]()
+![](https://github.com/akthersr/School_District_Analysis/blob/main/student%20data%20frame%20nan.png)
 
 
 
