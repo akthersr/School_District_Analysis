@@ -150,7 +150,6 @@ Adjusted Analysis
 ![]()
 
 ## Summary
-
 1.  After replacing the ninth graders' scores with NaN caused Thomas High School's overall passing percentages and average scores to plummet.
 2.  The district as a whole has also had its average math and reading scores decrease, as well as the overall passing percentage for students.
 3.  But, changes are insignificant for Scores by budget and Scores by school size.
