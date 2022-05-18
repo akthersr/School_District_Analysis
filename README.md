@@ -111,7 +111,7 @@ The ranking of the top schools including Thomas High School was not affected by 
  
  Adjusted reading scores by grade:
  
- ![]()
+ ![](https://github.com/akthersr/School_District_Analysis/blob/main/reading%20score.png)
  
  ### Scores by school spending
  
