@@ -80,13 +80,13 @@ School summary excluding 9th grader:
 
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20summary%20original.png)
 
-The below figure shows the bottom five schools based on the overall passing rate.
-
-![](https://github.com/akthersr/School_District_Analysis/blob/main/overall%20passing%20of%20bottom%20school.png)
-
 The below figure shows the top five schools based on the overall passing rate.
 
-![](https://github.com/akthersr/School_District_Analysis/blob/main/overall%20passing%20for%20top%20schools.png)
+![](
+
+The below figure shows the bottom five schools based on the overall passing rate.
+
+![](
 
 The ranking of the top schools including Thomas High School was not affected by the update.While the average math, reading and overall scores at Thomas High School were impacted with the update, the changes were not enough to change its relative ranking versus other schools.
 
