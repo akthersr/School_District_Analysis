@@ -11,6 +11,7 @@ The main purpose of this analysis to analyze the state-testing score for math te
  1. A high-level snapshot of the district's key metrics, presented in a table format.
  2. An overview of the key metrics for each school, presented in a table format.
  3. Tables presenting each of the following metrics:
+ 
     The district summary.
     The school summary.
     Top 5 and bottom 5 performing schools, based on the overall passing rate.
@@ -70,8 +71,6 @@ The change of adding Nan for grade 9 in Thomas High School math and reading scor
 ## School summary
 
 In the original analysis, Thomas High School overall passing rate was 91%.But, after adjusting data for 9th graders had a very significant affect in THS test scores.The overall passing rate drop to 65%, passing rate in math was almost 67% and passing rate in reading 70%.
-
-![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20summary%20THS.png)
 
 ![](https://github.com/akthersr/School_District_Analysis/blob/main/school%20summary%20THS.png)
 
